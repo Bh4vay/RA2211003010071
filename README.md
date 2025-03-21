@@ -34,3 +34,8 @@ A Node.js-based microservice for **user registration, authentication, and social
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB (Mongoose)
 
+## Screenshots
+- ![image](https://github.com/user-attachments/assets/281b0c69-057a-4b45-9bd0-9c8ed3ae4ae2)
+- ![image](https://github.com/user-attachments/assets/b583307d-deda-49b7-89fb-3966eb7fbf92)
+
+
